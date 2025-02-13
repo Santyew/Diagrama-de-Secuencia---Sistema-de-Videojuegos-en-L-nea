@@ -1,1 +1,1 @@
-# Diagrama-de-Secuencia---Sistema-de-Videojuegos-en-L-nea
+# Diagrama-de-Secuencia---Sistema-de-Videojuegos-en-Linea
